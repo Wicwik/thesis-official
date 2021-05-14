@@ -1,2 +1,2 @@
-# Realistic image synthesis, based on adescription in natural language
+# Realistic image synthesis, based on a description in natural language
 Bachelor thesis official repository
