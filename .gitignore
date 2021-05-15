@@ -1,5 +1,8 @@
 *pkl
 *h5
+*jpg
+*png
 .ipynb_checkpoints
 __pycache__
 *tar.gz
+*log
