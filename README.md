@@ -18,5 +18,5 @@ Bachelor thesis official repository
 
 **We recommend to start with 01_generate_samples and continue to 05_experiment_parsing.**
 
-[Unofficial repo](https://github.com/Wicwik/BP) [Thesis](https://drive.google.com/file/d/1GJntvgw4G8zzfyNVNv5g35w6JBXrmQ6c/view?usp=sharing)
+[Unofficial repo](https://github.com/Wicwik/BP) | [Thesis](https://drive.google.com/file/d/1GJntvgw4G8zzfyNVNv5g35w6JBXrmQ6c/view?usp=sharing)
 
